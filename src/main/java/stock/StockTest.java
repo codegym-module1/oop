@@ -2,7 +2,7 @@ package stock;
 
 import java.util.Scanner;
 
-public class Application {
+public class StockTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter previous closing price: ");
